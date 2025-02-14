@@ -1,3 +1,0 @@
-/home/m.nonkin/labs/lab_1_cmake/build/CMakeFiles/main.dir
-/home/m.nonkin/labs/lab_1_cmake/build/CMakeFiles/edit_cache.dir
-/home/m.nonkin/labs/lab_1_cmake/build/CMakeFiles/rebuild_cache.dir
